@@ -59,7 +59,7 @@ img{
 width: 590px;
 }
 
-/*@media screen and (max-width:500px) {
+@media screen and (max-width:500px) {
     
     input{
         width: 95px;
@@ -70,7 +70,7 @@ img{
 }
 
    
-}*/
+}
 
 
 
