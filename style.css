@@ -59,18 +59,7 @@ img{
 width: 590px;
 }
 
-@media screen and (max-width:500px) {
-    
-    input{
-        width: 95px;
-        text-align: center;
-    }
-img{
-    width: 290px;
-}
 
-   
-}
 
 
 
